@@ -1,4 +1,4 @@
-<!-- GH_ONLY_START -->
+<!-- GH_ONLY_START --> # a new change
 <p align="center">
   <img width="350" src=https://github.com/DeepTrackAI/DeepTrack2/blob/develop/assets/DeepTrack2-logo.png?raw=true>
 </p>
